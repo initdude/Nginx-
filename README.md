@@ -1,6 +1,6 @@
 # Nginx
 Setup Nginx Project with self-sign SSL Certification
-
+it's just a sample, beause of privacy i didn't add full addresses.
 
 
 
