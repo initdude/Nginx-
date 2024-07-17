@@ -1,5 +1,9 @@
-# Nginx-
+# Nginx
 Setup Nginx Project with self-sign SSL Certification
+
+
+
+
 Overview
 
 This project sets up an Nginx server with a self-signed SSL certificate.
